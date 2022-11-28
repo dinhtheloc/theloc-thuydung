@@ -8607,23 +8607,29 @@ wpo-hero-slider-s4
   line-height: 86px;
   text-align: center;
   margin-bottom: 0px;
+  padding: 20px 0;
+  margin-top: 120px;
 }
+
 
 @media (max-width: 1399px) {
   .wpo-wedding-date h2 {
     font-size: 40px;
+    margin-top: 70px;
   }
 }
 
 @media (max-width: 1199px) {
   .wpo-wedding-date h2 {
-    font-size: 30px;
+    font-size: 29px;
+    margin-top: 50px;
   }
 }
 
 @media (max-width: 991px) {
   .wpo-wedding-date h2 {
-    font-size: 25px;
+    font-size: 22px;
+    margin-top: 20px;
   }
 }
 
