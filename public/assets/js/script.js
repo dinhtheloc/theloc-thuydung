@@ -277,7 +277,7 @@ function _0x7b17() {
     "fadeOut",
     "delay",
     ".wpo-site-header\x20.navigation",
-    "<div\x20class=\x22box\x22><div><div style='background: -webkit-linear-gradient(45deg,#a9c9ff,#ffbbec);-webkit-background-clip: text;-webkit-text-fill-color: transparent;' \x20class=\x22time\x22>%D</div>\x20<span>Ngày</span>\x20</div></div>",
+    "<div\x20class=\x22box\x22><div><div style='background: -webkit-linear-gradient(45deg,#a9c9ff,#ffbbec);-webkit-background-clip: text;-webkit-text-fill-color: transparent;' \x20class=\x22time\x22>%D</div>\x20<span>Days</span>\x20</div></div>",
     "filter",
     "data-background",
     "color4",
@@ -1214,9 +1214,9 @@ function _0x7b17() {
               _0x151bcf[_0x1602b2(0x1b4)](
                 "" +
                   _0x1602b2(0x1e9) +
-                  "<div\x20class=\x22box\x22><div><div style='background: -webkit-linear-gradient(45deg,#a9c9ff,#ffbbec);-webkit-background-clip: text;-webkit-text-fill-color: transparent;' \x20class=\x22time\x22>%H</div>\x20<span>Giờ</span>\x20</div></div>" +
-                  "<div\x20class=\x22box\x22><div><div style='background: -webkit-linear-gradient(45deg,#a9c9ff,#ffbbec);-webkit-background-clip: text;-webkit-text-fill-color: transparent;' \x20class=\x22time\x22>%M</div>\x20<span>Phút</span>\x20</div></div>" +
-                  "<div\x20class=\x22box\x22><div><div style='background: -webkit-linear-gradient(45deg,#a9c9ff,#ffbbec);-webkit-background-clip: text;-webkit-text-fill-color: transparent;' \x20class=\x22time\x22>%S</div>\x20<span>Giây</span>\x20</div></div>"
+                  "<div\x20class=\x22box\x22><div><div style='background: -webkit-linear-gradient(45deg,#a9c9ff,#ffbbec);-webkit-background-clip: text;-webkit-text-fill-color: transparent;' \x20class=\x22time\x22>%H</div>\x20<span>Hours</span>\x20</div></div>" +
+                  "<div\x20class=\x22box\x22><div><div style='background: -webkit-linear-gradient(45deg,#a9c9ff,#ffbbec);-webkit-background-clip: text;-webkit-text-fill-color: transparent;' \x20class=\x22time\x22>%M</div>\x20<span>Minutes</span>\x20</div></div>" +
+                  "<div\x20class=\x22box\x22><div><div style='background: -webkit-linear-gradient(45deg,#a9c9ff,#ffbbec);-webkit-background-clip: text;-webkit-text-fill-color: transparent;' \x20class=\x22time\x22>%S</div>\x20<span>Seconds</span>\x20</div></div>"
               )
             );
         }
