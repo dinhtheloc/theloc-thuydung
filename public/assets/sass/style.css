@@ -19549,4 +19549,15 @@ wpo-hero-slider-s4
 .color12 .wpo-blog-single-section .tag-share-s2 .tag a {
   background: none !important;
 }
+
+
+.slide-inner.slide-bg-image {
+  background-position-y: 0%;
+}
+/* 
+@media (max-width: 425px) {
+  .slide-inner.slide-bg-image {
+    background-position-y: center;
+  }
+} */
 /*# sourceMappingURL=style.css.map */
